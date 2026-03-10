@@ -116,7 +116,7 @@ pip install -r app/requirements.txt
 ## 5 Menjalankan Server
 
 ```bash
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 ```
 
 Server akan berjalan pada alamat:
